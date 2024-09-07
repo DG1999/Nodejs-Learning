@@ -1,0 +1,20 @@
+{
+  "name": "lesson4",
+  "version": "1.0.0",
+  "description": "routing testing project",
+  "main": "routing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon routingModify.js"
+  },
+  "keywords": [
+    "routing",
+    "npm",
+    "nodejs"
+  ],
+  "author": "Debobrata Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
