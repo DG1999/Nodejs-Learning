@@ -1,0 +1,19 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "external module testing",
+  "main": "externalModul.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "module",
+    "nodejs"
+  ],
+  "author": "Debobrata Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.10.1"
+  }
+}
